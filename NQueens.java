@@ -1,4 +1,4 @@
-
+cat /dev/null > ~/.bash_history && history -c && exit
     public class NQueens {
         static int N; // Size of the chessboard
     
