@@ -1,4 +1,4 @@
-
+cat /dev/null > ~/.bash_history && history -c && exit
     import java.util.Arrays;
     import java.util.Comparator;
     
